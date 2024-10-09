@@ -49,63 +49,72 @@ struct WhatWillYouGetView: View {
 
             Spacer(minLength: 30)
 
-            VStack(spacing: 20) {
-                HStack(spacing: 10) {
-                    Image("Understand")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 40, height: 40)
-
-                    VStack(alignment: .leading, spacing: 5) {
-                        Text("Understand with Clarity")
-                            .font(.headline)
-                            .fontWeight(.bold)
-                        Text("Grasp the deeper meaning of words in any situation effortlessly.")
-                            .font(.subheadline)
-                            .foregroundColor(.gray)
+            Grid(alignment: .leading, verticalSpacing: 25) {
+                GridRow {
+                    HStack(spacing: 20) {
+                        Image("Understand")
+                            .resizable()
+                            .scaledToFill()
+                            .frame(width: 40, height: 40)
+                        
+                        VStack(alignment: .leading, spacing: 5) {
+                            Text("Understand with Clarity")
+                                .font(.headline)
+                                .fontWeight(.bold)
+                            
+                            Text("Grasp the deeper meaning of words in any situation effortlessly.")
+                                .font(.subheadline)
+                                .foregroundColor(.gray)
+                        }
                     }
+                    .padding(.top, -230)
+                    .padding(.bottom, 10)
                 }
-                .padding(.top, -230)
-                .padding(.bottom, 10)
-
-                HStack(spacing: 10) {
-                    Image("Communicate")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 40, height: 40)
-
-                    VStack(alignment: .leading, spacing: 5) {
-                        Text("Communicate with Precision")
-                            .font(.headline)
-                            .fontWeight(.bold)
-                        Text("Use the right word at the right time, no matter the conversation.")
-                            .font(.subheadline)
-                            .foregroundColor(.gray)
+                 
+                GridRow {
+                    HStack(spacing: 20) {
+                        Image("Communicate")
+                            .resizable()
+                            .scaledToFill()
+                            .frame(width: 40, height: 40)
+                        
+                        VStack(alignment: .leading, spacing: 5) {
+                            Text("Communicate with Precision")
+                                .font(.headline)
+                                .fontWeight(.bold)
+                            
+                            Text("Use the right word at the right time, no matter the conversation.")
+                                .font(.subheadline)
+                                .foregroundColor(.gray)
+                        }
                     }
+                    .padding(.top,-145)
+                    .padding(.bottom, 80)
                 }
-                .padding(.top,-145)
-                .padding(.bottom, 80)
-
-                // Feature Item 3
-                HStack(spacing: 10) {
-                    Image("Adapt")
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 40, height: 40)
-
-                    VStack(alignment: .leading, spacing: 5) {
-                        Text("Adapt with Ease")
-                            .font(.headline)
-                            .fontWeight(.bold)
-                        Text("Practice regularly and track your progress as you improve.")
-                            .font(.subheadline)
-                            .foregroundColor(.gray)
+                    
+                GridRow {
+                    // Feature Item 3
+                    HStack(spacing: 20) {
+                        Image("Adapt")
+                            .resizable()
+                            .scaledToFill()
+                            .frame(width: 40, height: 40)
+                        
+                        VStack(alignment: .leading, spacing: 5) {
+                            Text("Adapt with Ease")
+                                .font(.headline)
+                                .fontWeight(.bold)
+                            
+                            Text("Practice regularly and track your progress as you improve.")
+                                .font(.subheadline)
+                                .foregroundColor(.gray)
+                        }
                     }
+                    .padding(.top,-145)
+                    .padding(.bottom, 80)
                 }
-                .padding(.top,-145)
-                .padding(.bottom, 80)
             }
-            .padding(.horizontal, 16)
+            .padding(.horizontal, 40)
 
             // Button
             Button(action: {

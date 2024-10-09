@@ -1,0 +1,2417 @@
+[
+    {
+        "vocab": "Charge",
+        "wordList": [
+            {
+                "word": "In Charge",
+                "definitions": "To be responsible for something.",
+                "examples": [
+                    "She is in charge of organizing the event."
+                ]
+            },
+            {
+                "word": "To Charge",
+                "definitions": "To require a fee for a service.",
+                "examples": [
+                    "They charged a premium for express delivery."
+                ]
+            },
+            {
+                "word": "Charge Up",
+                "definitions": "To recharge an electronic device.",
+                "examples": [
+                    "Make sure to charge up your devices before the trip."
+                ]
+            },
+            {
+                "word": "Charge Forward",
+                "definitions": "To move forward with determination.",
+                "examples": [
+                    "The team decided to charge forward with their plans despite the challenges."
+                ]
+            },
+            {
+                "word": "Charge Into",
+                "definitions": "To engage directly with force or enthusiasm.",
+                "examples": [
+                    "They charged into the new project with full energy."
+                ]
+            },
+            {
+                "word": "Charge Against",
+                "definitions": "To formally accuse someone of a crime.",
+                "examples": [
+                    "He was charged against for theft last year."
+                ]
+            },
+            {
+                "word": "Charge Back",
+                "definitions": "To reverse a charge on an account.",
+                "examples": [
+                    "You can charge back any incorrect fees."
+                ]
+            },
+            {
+                "word": "Charge Up",
+                "definitions": "To energize or motivate.",
+                "examples": [
+                    "This activity will charge our enthusiasm."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Assigning roles for an upcoming project",
+                "conversation": [
+                    {"person": "Who will take charge of the marketing campaign?"},
+                    {"person": "I can take charge of that; I have experience."},
+                    {"person": "Great! Let's set up a meeting to brainstorm ideas."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "To take responsibility for something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To formally accuse someone of a crime",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To require a payment for a service",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 54321,
+                    "context": "Who will take charge of the marketing campaign?",
+                    "mean": "To take responsibility for something."
+                }
+            },
+            {
+                "situation": "Discussing budget allocations",
+                "conversation": [
+                    {"person": "We need to charge all expenses to the project budget."},
+                    {"person": "Absolutely! That will help us track spending."},
+                    {"person": "I'll prepare a detailed report of the charges."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "To assign costs to a budget",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To accuse someone of wrongdoing",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To accelerate a process",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "We need to charge all expenses to the project budget.",
+                    "mean": "To assign costs to a budget."
+                }
+            },
+            {
+                "situation": "Preparing for an important meeting",
+                "conversation": [
+                    {"person": "Don't forget to charge your laptops before the meeting."},
+                    {"person": "Mine is almost out of battery; thanks for the reminder."},
+                    {"person": "Let's make sure we're all set with charged devices."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "To recharge an electronic device",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To impose a fee for a service",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To accuse someone in a formal setting",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 13579,
+                    "context": "Don't forget to charge your laptops before the meeting.",
+                    "mean": "To recharge an electronic device."
+                }
+            },
+            {
+                "situation": "Motivating the team during a team-building exercise",
+                "conversation": [
+                    {"person": "This exercise will charge our team spirit!"},
+                    {"person": "I agree! It will help us bond."},
+                    {"person": "Let's use this energy to tackle our next project."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "To energize or motivate a group",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To formally accuse someone of a crime",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To demand a payment for something",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 24680,
+                    "context": "This exercise will charge our team spirit!",
+                    "mean": "To energize or motivate a group."
+                }
+            },
+            {
+                "situation": "Reviewing project timelines",
+                "conversation": [
+                    {"person": "Let’s charge ahead with our implementation plan."},
+                    {"person": "I fully support that! We need to stay on track."},
+                    {"person": "I’ll start coordinating the next steps."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "To move forward decisively",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To accuse someone formally",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To require payment for a service",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 98765,
+                    "context": "Let’s charge ahead with our implementation plan.",
+                    "mean": "To move forward decisively."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Leadership",
+        "wordList": [
+            {
+                "word": "Transformational Leadership",
+                "definitions": "A leadership style that inspires positive changes in followers.",
+                "examples": [
+                    "Transformational leadership motivates employees to exceed their own self-interests for the sake of the organization."
+                ]
+            },
+            {
+                "word": "Servant Leadership",
+                "definitions": "A leadership philosophy that prioritizes serving others.",
+                "examples": [
+                    "Servant leadership focuses on the growth and well-being of people and the communities to which they belong."
+                ]
+            },
+            {
+                "word": "Situational Leadership",
+                "definitions": "A leadership style that adapts based on the situation and the team's needs.",
+                "examples": [
+                    "Situational leadership is effective in managing diverse teams."
+                ]
+            },
+            {
+                "word": "Autocratic Leadership",
+                "definitions": "A leadership style characterized by individual control over all decisions.",
+                "examples": [
+                    "Autocratic leadership can be effective in crisis situations where quick decision-making is necessary."
+                ]
+            },
+            {
+                "word": "Democratic Leadership",
+                "definitions": "A leadership style that involves team members in the decision-making process.",
+                "examples": [
+                    "Democratic leadership fosters a sense of collaboration and ownership among team members."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Discussing team dynamics in a meeting",
+                "conversation": [
+                    {"person": "I believe effective leadership is crucial for our team's success."},
+                    {"person": "Absolutely! Leadership sets the tone for how we work together."},
+                    {"person": "What kind of leadership style do you think is best for us?"}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The act of leading a group or organization",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of following orders",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to manage projects",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 12345,
+                    "context": "I believe effective leadership is crucial for our team's success.",
+                    "mean": "The act of leading a group or organization."
+                }
+            },
+            {
+                "situation": "Evaluating a new project initiative",
+                "conversation": [
+                    {"person": "This project will require strong leadership to drive it forward."},
+                    {"person": "Agreed! Leadership will help align our resources effectively."},
+                    {"person": "We should consider who will lead this initiative."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The ability to guide and influence others",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "A set of rules for team behavior",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The act of giving feedback",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "This project will require strong leadership to drive it forward.",
+                    "mean": "The ability to guide and influence others."
+                }
+            },
+            {
+                "situation": "During a training session",
+                "conversation": [
+                    {"person": "Leadership is about setting a vision and inspiring others to follow."},
+                    {"person": "Yes, it involves understanding team dynamics."},
+                    {"person": "We should also learn how to develop our leadership skills."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of influencing others toward a common goal",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to take instruction",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The act of monitoring team performance",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 13579,
+                    "context": "Leadership is about setting a vision and inspiring others to follow.",
+                    "mean": "The process of influencing others toward a common goal."
+                }
+            },
+            {
+                "situation": "Reviewing feedback on a recent project",
+                "conversation": [
+                    {"person": "The leadership in this project was exemplary."},
+                    {"person": "True! Their decisions made a big difference."},
+                    {"person": "We should recognize their leadership contributions."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The act of guiding a team toward success",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of managing finances",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to perform tasks efficiently",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 24680,
+                    "context": "The leadership in this project was exemplary.",
+                    "mean": "The act of guiding a team toward success."
+                }
+            },
+            {
+                "situation": "Planning for future team goals",
+                "conversation": [
+                    {"person": "Strong leadership will help us achieve our objectives."},
+                    {"person": "Absolutely! Leadership is essential for strategic planning."},
+                    {"person": "Let’s identify potential leaders in our team."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The skill of guiding a group toward shared goals",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of completing tasks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to follow directions",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 98765,
+                    "context": "Strong leadership will help us achieve our objectives.",
+                    "mean": "The skill of guiding a group toward shared goals."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Innovation",
+        "wordList": [
+            {
+                "word": "Product Innovation",
+                "definitions": "The introduction of a new or improved product.",
+                "examples": [
+                    "Product innovation is crucial for staying competitive in the market."
+                ]
+            },
+            {
+                "word": "Process Innovation",
+                "definitions": "Improvements in the methods used to create or deliver products.",
+                "examples": [
+                    "Process innovation can lead to increased efficiency and reduced costs."
+                ]
+            },
+            {
+                "word": "Business Model Innovation",
+                "definitions": "Changes in how a company creates, delivers, and captures value.",
+                "examples": [
+                    "Business model innovation is essential for adapting to market changes."
+                ]
+            },
+            {
+                "word": "Technological Innovation",
+                "definitions": "The development and application of new technologies.",
+                "examples": [
+                    "Technological innovation drives many of the changes we see in the industry."
+                ]
+            },
+            {
+                "word": "Social Innovation",
+                "definitions": "New strategies or concepts that address social needs.",
+                "examples": [
+                    "Social innovation aims to improve the welfare of society."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Brainstorming new ideas in a team meeting",
+                "conversation": [
+                    {"person": "We need to focus on innovation to stay ahead."},
+                    {"person": "Absolutely! Innovation is key to our growth."},
+                    {"person": "What innovative ideas do we have for our next product?"}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of creating new ideas or products",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to maintain the status quo",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "A method for reducing costs",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 54321,
+                    "context": "We need to focus on innovation to stay ahead.",
+                    "mean": "The process of creating new ideas or products."
+                }
+            },
+            {
+                "situation": "Discussing a recent successful project",
+                "conversation": [
+                    {"person": "That project was a great example of innovation."},
+                    {"person": "Yes, the team really pushed the boundaries."},
+                    {"person": "We should apply this innovative approach to future projects."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The act of introducing new ideas",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of evaluating existing products",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "A strategy for cutting expenses",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "That project was a great example of innovation.",
+                    "mean": "The act of introducing new ideas."
+                }
+            },
+            {
+                "situation": "Planning for a new technology rollout",
+                "conversation": [
+                    {"person": "Innovation is crucial for this rollout to succeed."},
+                    {"person": "I agree! We need to be forward-thinking."},
+                    {"person": "Let's ensure our strategy encourages innovation."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The development of new methods or ideas",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of following traditional practices",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "A system for maintaining existing products",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 13579,
+                    "context": "Innovation is crucial for this rollout to succeed.",
+                    "mean": "The development of new methods or ideas."
+                }
+            },
+            {
+                "situation": "Evaluating new market trends",
+                "conversation": [
+                    {"person": "We should leverage innovation to meet these trends."},
+                    {"person": "Yes! Innovation can give us a competitive edge."},
+                    {"person": "Let’s brainstorm some innovative solutions."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The act of creating novel solutions",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of ignoring market changes",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "A method for maximizing resources",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 24680,
+                    "context": "We should leverage innovation to meet these trends.",
+                    "mean": "The act of creating novel solutions."
+                }
+            },
+            {
+                "situation": "Reviewing a company's future strategies",
+                "conversation": [
+                    {"person": "Innovation will be our driving force moving forward."},
+                    {"person": "Absolutely! It will shape our future products."},
+                    {"person": "Let’s prioritize innovation in our planning."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of making changes that improve",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of adhering to old practices",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "A strategy for reducing workforce",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 98765,
+                    "context": "Innovation will be our driving force moving forward.",
+                    "mean": "The process of making changes that improve."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Teamwork",
+        "wordList": [
+            {
+                "word": "Collaborative Teamwork",
+                "definitions": "Working together to achieve a common goal.",
+                "examples": [
+                    "Collaborative teamwork enhances problem-solving skills."
+                ]
+            },
+            {
+                "word": "Synergistic Teamwork",
+                "definitions": "A type of teamwork where the combined efforts produce a greater result.",
+                "examples": [
+                    "Synergistic teamwork can lead to more innovative solutions."
+                ]
+            },
+            {
+                "word": "Cross-functional Teamwork",
+                "definitions": "Teamwork among members from different departments.",
+                "examples": [
+                    "Cross-functional teamwork is essential for project success."
+                ]
+            },
+            {
+                "word": "Teamwork Culture",
+                "definitions": "An environment that encourages teamwork among employees.",
+                "examples": [
+                    "A teamwork culture fosters collaboration and trust."
+                ]
+            },
+            {
+                "word": "Effective Teamwork",
+                "definitions": "Teamwork that leads to productive and successful outcomes.",
+                "examples": [
+                    "Effective teamwork is vital for achieving organizational goals."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Discussing project roles",
+                "conversation": [
+                    {"person": "Teamwork is essential for this project."},
+                    {"person": "Yes, we need to work closely together."},
+                    {"person": "Let’s define our roles to enhance teamwork."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The combined effort of a group working towards a goal",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to work independently",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "A set of instructions for tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 54321,
+                    "context": "Teamwork is essential for this project.",
+                    "mean": "The combined effort of a group working towards a goal."
+                }
+            },
+            {
+                "situation": "Reflecting on team performance",
+                "conversation": [
+                    {"person": "Our teamwork has improved significantly."},
+                    {"person": "Definitely! We communicate better now."},
+                    {"person": "Let’s keep this momentum going."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The cooperative effort of individuals",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of working alone",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to manage time effectively",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "Our teamwork has improved significantly.",
+                    "mean": "The cooperative effort of individuals."
+                }
+            },
+            {
+                "situation": "Planning a team-building activity",
+                "conversation": [
+                    {"person": "This activity will boost our teamwork."},
+                    {"person": "I agree! It will help us bond."},
+                    {"person": "Let’s focus on teamwork exercises."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The interaction and collaboration among team members",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The evaluation of individual performance",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to set personal goals",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 13579,
+                    "context": "This activity will boost our teamwork.",
+                    "mean": "The interaction and collaboration among team members."
+                }
+            },
+            {
+                "situation": "Reviewing team outcomes",
+                "conversation": [
+                    {"person": "Effective teamwork leads to better results."},
+                    {"person": "Exactly! We should celebrate our achievements."},
+                    {"person": "Let’s analyze what worked well."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The joint effort to achieve a common purpose",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of assessing risks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to multitask",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 24680,
+                    "context": "Effective teamwork leads to better results.",
+                    "mean": "The joint effort to achieve a common purpose."
+                }
+            },
+            {
+                "situation": "Identifying strengths in the team",
+                "conversation": [
+                    {"person": "Teamwork allows us to leverage our strengths."},
+                    {"person": "True! Each member brings unique skills."},
+                    {"person": "We should harness this diversity."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The collaborative effort of a group to achieve objectives",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of working independently",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to complete tasks quickly",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 98765,
+                    "context": "Teamwork allows us to leverage our strengths.",
+                    "mean": "The collaborative effort of a group to achieve objectives."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Workflow",
+        "wordList": [
+            {
+                "word": "Streamlined Workflow",
+                "definitions": "An optimized process that improves efficiency.",
+                "examples": [
+                    "A streamlined workflow reduces unnecessary steps."
+                ]
+            },
+            {
+                "word": "Automated Workflow",
+                "definitions": "A workflow that uses technology to automate tasks.",
+                "examples": [
+                    "Automated workflows save time and reduce errors."
+                ]
+            },
+            {
+                "word": "Collaborative Workflow",
+                "definitions": "A workflow that emphasizes teamwork and collaboration.",
+                "examples": [
+                    "Collaborative workflows enhance communication among team members."
+                ]
+            },
+            {
+                "word": "Visual Workflow",
+                "definitions": "A graphical representation of a process.",
+                "examples": [
+                    "A visual workflow helps team members understand the steps involved."
+                ]
+            },
+            {
+                "word": "Integrated Workflow",
+                "definitions": "A workflow that connects various systems and processes.",
+                "examples": [
+                    "An integrated workflow improves information flow across departments."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Reviewing project processes",
+                "conversation": [
+                    {"person": "We need to improve our workflow for better efficiency."},
+                    {"person": "Agreed! A streamlined workflow will help."},
+                    {"person": "Let’s analyze the current steps."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The sequence of processes involved in a task",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of managing team dynamics",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to multitask effectively",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 11111,
+                    "context": "We need to improve our workflow for better efficiency.",
+                    "mean": "The sequence of processes involved in a task."
+                }
+            },
+            {
+                "situation": "Implementing new software tools",
+                "conversation": [
+                    {"person": "This software will enhance our workflow."},
+                    {"person": "Yes, it automates many tasks."},
+                    {"person": "Let’s train the team on the new workflow."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The series of steps needed to complete a task",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to analyze data",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of setting deadlines",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 22222,
+                    "context": "This software will enhance our workflow.",
+                    "mean": "The series of steps needed to complete a task."
+                }
+            },
+            {
+                "situation": "Discussing project deadlines",
+                "conversation": [
+                    {"person": "We need to map out our workflow for this project."},
+                    {"person": "A visual workflow would help everyone see the steps."},
+                    {"person": "Let’s create a diagram for clarity."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The organized flow of tasks and responsibilities",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of budgeting resources",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to prioritize tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 33333,
+                    "context": "We need to map out our workflow for this project.",
+                    "mean": "The organized flow of tasks and responsibilities."
+                }
+            },
+            {
+                "situation": "Analyzing performance metrics",
+                "conversation": [
+                    {"person": "We should evaluate our workflow to find bottlenecks."},
+                    {"person": "Identifying delays is crucial."},
+                    {"person": "Let’s implement solutions for a smoother workflow."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The structure of a process and its efficiency",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of assigning tasks to individuals",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to create reports",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 44444,
+                    "context": "We should evaluate our workflow to find bottlenecks.",
+                    "mean": "The structure of a process and its efficiency."
+                }
+            },
+            {
+                "situation": "Preparing for a team presentation",
+                "conversation": [
+                    {"person": "Let’s refine our workflow before the meeting."},
+                    {"person": "Good idea! We want to be clear and concise."},
+                    {"person": "I’ll draft the workflow for our discussion."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The organized flow of tasks to complete a project",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to negotiate contracts",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of conducting meetings",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 55555,
+                    "context": "Let’s refine our workflow before the meeting.",
+                    "mean": "The organized flow of tasks to complete a project."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Productivity",
+        "wordList": [
+            {
+                "word": "High Productivity",
+                "definitions": "A level of output that exceeds standard expectations.",
+                "examples": [
+                    "Our team achieved high productivity this quarter."
+                ]
+            },
+            {
+                "word": "Productivity Tools",
+                "definitions": "Software or methods that help increase efficiency.",
+                "examples": [
+                    "Using productivity tools can streamline our processes."
+                ]
+            },
+            {
+                "word": "Productivity Metrics",
+                "definitions": "Measurements used to assess output and efficiency.",
+                "examples": [
+                    "We need to track our productivity metrics regularly."
+                ]
+            },
+            {
+                "word": "Boosting Productivity",
+                "definitions": "Methods to increase output and efficiency.",
+                "examples": [
+                    "Implementing new strategies is key to boosting productivity."
+                ]
+            },
+            {
+                "word": "Sustained Productivity",
+                "definitions": "Consistent output over a period of time.",
+                "examples": [
+                    "Sustained productivity is essential for long-term success."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Reviewing quarterly results",
+                "conversation": [
+                    {"person": "Our productivity has increased significantly."},
+                    {"person": "Yes, we implemented new strategies."},
+                    {"person": "Let’s keep this momentum going."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The effectiveness of producing desired results",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of setting goals",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of hiring employees",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 12345,
+                    "context": "Our productivity has increased significantly.",
+                    "mean": "The effectiveness of producing desired results."
+                }
+            },
+            {
+                "situation": "Discussing work methods",
+                "conversation": [
+                    {"person": "We need to focus on boosting productivity."},
+                    {"person": "Agreed! Let’s brainstorm some ideas."},
+                    {"person": "I’ll research some productivity tools."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The rate of output or efficiency",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to multitask effectively",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The skill of delegating tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "We need to focus on boosting productivity.",
+                    "mean": "The rate of output or efficiency."
+                }
+            },
+            {
+                "situation": "Evaluating team performance",
+                "conversation": [
+                    {"person": "Let’s measure our productivity metrics."},
+                    {"person": "We can identify areas for improvement."},
+                    {"person": "Tracking is essential for growth."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The measurement of output and efficiency",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of brainstorming ideas",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The act of managing teams",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 24680,
+                    "context": "Let’s measure our productivity metrics.",
+                    "mean": "The measurement of output and efficiency."
+                }
+            },
+            {
+                "situation": "Setting goals for the team",
+                "conversation": [
+                    {"person": "Boosting productivity should be our focus."},
+                    {"person": "Yes! We need clear objectives."},
+                    {"person": "Let’s review our strategies."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The state of being productive",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to manage stress",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of hiring new staff",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 98765,
+                    "context": "Boosting productivity should be our focus.",
+                    "mean": "The state of being productive."
+                }
+            },
+            {
+                "situation": "Conducting a workshop on efficiency",
+                "conversation": [
+                    {"person": "Sustained productivity is key to success."},
+                    {"person": "Absolutely! We need to maintain high standards."},
+                    {"person": "Let’s share our best practices."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Consistent output over time",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to set personal goals",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The act of reducing costs",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 13579,
+                    "context": "Sustained productivity is key to success.",
+                    "mean": "Consistent output over time."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Strategy",
+        "wordList": [
+            {
+                "word": "Long-term Strategy",
+                "definitions": "A plan designed to achieve goals over an extended period.",
+                "examples": [
+                    "Our long-term strategy focuses on sustainable growth."
+                ]
+            },
+            {
+                "word": "Business Strategy",
+                "definitions": "A plan for how a company will achieve its goals.",
+                "examples": [
+                    "A clear business strategy is vital for success."
+                ]
+            },
+            {
+                "word": "Competitive Strategy",
+                "definitions": "A plan to gain an advantage over competitors.",
+                "examples": [
+                    "Our competitive strategy targets niche markets."
+                ]
+            },
+            {
+                "word": "Operational Strategy",
+                "definitions": "A plan that outlines how a business will operate.",
+                "examples": [
+                    "An effective operational strategy improves efficiency."
+                ]
+            },
+            {
+                "word": "Growth Strategy",
+                "definitions": "A plan to increase a company's market share.",
+                "examples": [
+                    "Our growth strategy includes expanding into new markets."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Planning for the next quarter",
+                "conversation": [
+                    {"person": "We need to develop a solid strategy for growth."},
+                    {"person": "Agreed! Let’s set clear objectives."},
+                    {"person": "A good strategy will guide our efforts."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A plan to achieve specific goals",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of managing day-to-day tasks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to motivate employees",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 54321,
+                    "context": "We need to develop a solid strategy for growth.",
+                    "mean": "A plan to achieve specific goals."
+                }
+            },
+            {
+                "situation": "Evaluating company performance",
+                "conversation": [
+                    {"person": "What is our current business strategy?"},
+                    {"person": "We are focusing on customer satisfaction."},
+                    {"person": "A strong business strategy will help us grow."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A method for achieving business goals",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to analyze data",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of hiring new staff",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "What is our current business strategy?",
+                    "mean": "A method for achieving business goals."
+                }
+            },
+            {
+                "situation": "Discussing market trends",
+                "conversation": [
+                    {"person": "We need a competitive strategy to stay ahead."},
+                    {"person": "Let’s analyze our competitors."},
+                    {"person": "A good strategy will position us well."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A plan to outperform competitors",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of product development",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to create marketing campaigns",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 13579,
+                    "context": "We need a competitive strategy to stay ahead.",
+                    "mean": "A plan to outperform competitors."
+                }
+            },
+            {
+                "situation": "Developing a new initiative",
+                "conversation": [
+                    {"person": "What’s our operational strategy for this project?"},
+                    {"person": "We’ll focus on efficiency and cost reduction."},
+                    {"person": "A solid operational strategy is crucial."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The framework for running a business",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to manage financial resources",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of setting deadlines",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 24680,
+                    "context": "What’s our operational strategy for this project?",
+                    "mean": "The framework for running a business."
+                }
+            },
+            {
+                "situation": "Preparing for a team meeting",
+                "conversation": [
+                    {"person": "We should review our growth strategy."},
+                    {"person": "Yes! Expanding into new markets is key."},
+                    {"person": "Let’s outline our next steps."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A plan to increase market presence",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of managing employee relations",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to track expenses",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 98765,
+                    "context": "We should review our growth strategy.",
+                    "mean": "A plan to increase market presence."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Communication",
+        "wordList": [
+            {
+                "word": "Effective Communication",
+                "definitions": "The clear and concise exchange of information.",
+                "examples": [
+                    "Effective communication is vital for team success."
+                ]
+            },
+            {
+                "word": "Interpersonal Communication",
+                "definitions": "The exchange of information between individuals.",
+                "examples": [
+                    "Interpersonal communication fosters relationships."
+                ]
+            },
+            {
+                "word": "Nonverbal Communication",
+                "definitions": "The transmission of messages without words.",
+                "examples": [
+                    "Nonverbal communication includes gestures and body language."
+                ]
+            },
+            {
+                "word": "Digital Communication",
+                "definitions": "The exchange of information through digital platforms.",
+                "examples": [
+                    "Digital communication is common in remote work."
+                ]
+            },
+            {
+                "word": "Open Communication",
+                "definitions": "An environment where team members feel safe to express ideas.",
+                "examples": [
+                    "Open communication encourages creativity and collaboration."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Conducting a team meeting",
+                "conversation": [
+                    {"person": "Effective communication is crucial for our success."},
+                    {"person": "Absolutely! It ensures everyone is on the same page."},
+                    {"person": "Let’s practice active listening."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The successful exchange of information",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of making decisions",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to manage tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 11111,
+                    "context": "Effective communication is crucial for our success.",
+                    "mean": "The successful exchange of information."
+                }
+            },
+            {
+                "situation": "Building team relationships",
+                "conversation": [
+                    {"person": "Interpersonal communication is key to collaboration."},
+                    {"person": "Yes! We should encourage open dialogue."},
+                    {"person": "Let’s organize team-building activities."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The exchange of information between individuals",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The act of managing team dynamics",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of analyzing data",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 22222,
+                    "context": "Interpersonal communication is key to collaboration.",
+                    "mean": "The exchange of information between individuals."
+                }
+            },
+            {
+                "situation": "Discussing remote work challenges",
+                "conversation": [
+                    {"person": "Digital communication has its pros and cons."},
+                    {"person": "True! We need to establish clear guidelines."},
+                    {"person": "Let’s use video calls for better engagement."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The exchange of information through technology",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The ability to manage time effectively",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The process of setting deadlines",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 33333,
+                    "context": "Digital communication has its pros and cons.",
+                    "mean": "The exchange of information through technology."
+                }
+            },
+            {
+                "situation": "Providing feedback in the workplace",
+                "conversation": [
+                    {"person": "Open communication fosters trust within the team."},
+                    {"person": "Absolutely! It allows for constructive feedback."},
+                    {"person": "Let’s hold regular check-ins."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "An environment where ideas are freely shared",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of planning projects",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The ability to resolve conflicts",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 44444,
+                    "context": "Open communication fosters trust within the team.",
+                    "mean": "An environment where ideas are freely shared."
+                }
+            },
+            {
+                "situation": "Understanding body language",
+                "conversation": [
+                    {"person": "Nonverbal communication plays a big role in our interactions."},
+                    {"person": "Yes! It can convey emotions and intentions."},
+                    {"person": "Let’s be mindful of our body language."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The transmission of messages without words",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "The process of creating presentations",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "The act of analyzing performance",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 55555,
+                    "context": "Nonverbal communication plays a big role in our interactions.",
+                    "mean": "The transmission of messages without words."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Evaluation",
+        "wordList": [
+            {
+                "word": "Evaluation",
+                "definitions": "The process of assessing or judging something.",
+                "examples": [
+                    "The evaluation of the project will take place next week."
+                ]
+            },
+            {
+                "word": "Self-Evaluation",
+                "definitions": "The assessment of one's own performance or work.",
+                "examples": [
+                    "Before the meeting, complete your self-evaluation form."
+                ]
+            },
+            {
+                "word": "Peer Evaluation",
+                "definitions": "The process of assessing a colleague's work or performance.",
+                "examples": [
+                    "We implemented peer evaluations to improve teamwork."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Performance review meeting",
+                "conversation": [
+                    {"person": "How did the evaluation process go for the team?"},
+                    {"person": "It went well. We identified areas for improvement."},
+                    {"person": "Good, let's implement those changes immediately."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of assessing or judging something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To develop a product",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To request additional resources",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 10234,
+                    "context": "How did the evaluation process go for the team?",
+                    "mean": "The process of assessing or judging something."
+                }
+            },
+            {
+                "situation": "Discussing self-assessment",
+                "conversation": [
+                    {"person": "Please complete your self-evaluation before the end of the week."},
+                    {"person": "I'm almost done with it; just a few more sections to fill."},
+                    {"person": "Great! Your input is important for the final review."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The assessment of one's own performance",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To delegate a task",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide training materials",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 20987,
+                    "context": "Please complete your self-evaluation before the end of the week.",
+                    "mean": "The assessment of one's own performance."
+                }
+            },
+            {
+                "situation": "Evaluating a new software",
+                "conversation": [
+                    {"person": "Have you completed the evaluation of the new software?"},
+                    {"person": "Yes, it seems like it will meet our needs."},
+                    {"person": "Good, let’s schedule a demo with the team."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of assessing or judging something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To assign a task",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide technical support",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 34567,
+                    "context": "Have you completed the evaluation of the new software?",
+                    "mean": "The process of assessing or judging something."
+                }
+            },
+            {
+                "situation": "Providing feedback after an event",
+                "conversation": [
+                    {"person": "What’s your evaluation of the event?"},
+                    {"person": "It was well-organized, but there are a few things we could improve."},
+                    {"person": "Thanks for the feedback. We’ll take that into account for the next one."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of assessing or judging something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To criticize without reason",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To request additional time",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 45678,
+                    "context": "What’s your evaluation of the event?",
+                    "mean": "The process of assessing or judging something."
+                }
+            },
+            {
+                "situation": "Evaluating employee performance",
+                "conversation": [
+                    {"person": "We’ll be conducting employee evaluations next month."},
+                    {"person": "Do you need help preparing the evaluation forms?"},
+                    {"person": "Yes, that would be great! Let’s make sure they’re ready by the end of the week."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of assessing or judging something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To provide additional resources",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To request feedback",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 56789,
+                    "context": "We’ll be conducting employee evaluations next month.",
+                    "mean": "The process of assessing or judging something."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Feedback",
+        "wordList": [
+            {
+                "word": "Feedback",
+                "definitions": "Information or reactions about a performance or behavior.",
+                "examples": [
+                    "We received useful feedback after the presentation."
+                ]
+            },
+            {
+                "word": "Constructive Feedback",
+                "definitions": "Comments that are intended to help improve something in a positive way.",
+                "examples": [
+                    "Her constructive feedback helped me improve my report."
+                ]
+            },
+            {
+                "word": "Negative Feedback",
+                "definitions": "Unfavorable comments or reactions about a performance or behavior.",
+                "examples": [
+                    "Despite the negative feedback, we continued with the project."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Project presentation review",
+                "conversation": [
+                    {"person": "Did you get any feedback on the presentation?"},
+                    {"person": "Yes, we got a lot of constructive feedback to improve it."},
+                    {"person": "That’s great. Let's apply those suggestions."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Information or reactions about a performance or behavior",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To provide a solution",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To handle a dispute",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 23456,
+                    "context": "Did you get any feedback on the presentation?",
+                    "mean": "Information or reactions about a performance or behavior."
+                }
+            },
+            {
+                "situation": "Post-training feedback",
+                "conversation": [
+                    {"person": "How was the training? Did you receive any feedback?"},
+                    {"person": "Yes, most of the participants found it very helpful."},
+                    {"person": "That’s good to hear. We’ll keep that in mind for future sessions."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Information or reactions about a performance or behavior",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To make a decision",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide resources",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 34567,
+                    "context": "How was the training? Did you receive any feedback?",
+                    "mean": "Information or reactions about a performance or behavior."
+                }
+            },
+            {
+                "situation": "Peer review feedback",
+                "conversation": [
+                    {"person": "I received some peer feedback on my report."},
+                    {"person": "Was it helpful?"},
+                    {"person": "Yes, it was constructive and pointed out some areas to improve."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Information or reactions about a performance or behavior",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To offer a reward",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To distribute tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 45678,
+                    "context": "I received some peer feedback on my report.",
+                    "mean": "Information or reactions about a performance or behavior."
+                }
+            },
+            {
+                "situation": "Client feedback discussion",
+                "conversation": [
+                    {"person": "Did the client give any feedback on the deliverables?"},
+                    {"person": "Yes, they were quite satisfied but suggested some improvements."},
+                    {"person": "Let’s make those changes and deliver the final version."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Information or reactions about a performance or behavior",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To request resources",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To handle a dispute",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 56789,
+                    "context": "Did the client give any feedback on the deliverables?",
+                    "mean": "Information or reactions about a performance or behavior."
+                }
+            },
+            {
+                "situation": "Feedback after a team meeting",
+                "conversation": [
+                    {"person": "Do you have any feedback on the new workflow we discussed?"},
+                    {"person": "Yes, I think it’s much more efficient than the previous process."},
+                    {"person": "Great! I’ll finalize it and share the updated workflow with the team."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Information or reactions about a performance or behavior",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To provide financial support",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To request training",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67891,
+                    "context": "Do you have any feedback on the new workflow we discussed?",
+                    "mean": "Information or reactions about a performance or behavior."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Resource",
+        "wordList": [
+            {
+                "word": "Resource",
+                "definitions": "A supply of materials, staff, or other assets that can be drawn on to accomplish tasks.",
+                "examples": [
+                    "We have enough resources to complete the project on time."
+                ]
+            },
+            {
+                "word": "Human Resources",
+                "definitions": "The department responsible for hiring, training, and managing employees.",
+                "examples": [
+                    "You should contact Human Resources to discuss your benefits."
+                ]
+            },
+            {
+                "word": "Natural Resources",
+                "definitions": "Materials or substances found in nature that can be used for economic gain.",
+                "examples": [
+                    "The country's natural resources include timber and oil."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Project planning discussion",
+                "conversation": [
+                    {"person": "Do we have enough resources to complete this project?"},
+                    {"person": "Yes, we have all the materials and staff we need."},
+                    {"person": "Great, let’s get started immediately."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A supply of materials, staff, or other assets",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "A request for additional funding",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide feedback",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 90876,
+                    "context": "Do we have enough resources to complete this project?",
+                    "mean": "A supply of materials, staff, or other assets."
+                }
+            },
+            {
+                "situation": "Discussing resource allocation",
+                "conversation": [
+                    {"person": "How should we allocate the resources for each department?"},
+                    {"person": "We should prioritize departments that need more support."},
+                    {"person": "Agreed, let’s finalize the allocation today."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A supply of materials, staff, or other assets",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To distribute tasks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide training",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 10234,
+                    "context": "How should we allocate the resources for each department?",
+                    "mean": "A supply of materials, staff, or other assets."
+                }
+            },
+            {
+                "situation": "Resource availability",
+                "conversation": [
+                    {"person": "Are the resources we need for the project available?"},
+                    {"person": "Yes, I’ve confirmed that everything is ready."},
+                    {"person": "Good, we can begin the work without any delays."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A supply of materials, staff, or other assets",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To request more funding",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To assign responsibilities",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 34567,
+                    "context": "Are the resources we need for the project available?",
+                    "mean": "A supply of materials, staff, or other assets."
+                }
+            },
+            {
+                "situation": "Human resources inquiry",
+                "conversation": [
+                    {"person": "I have a question about my vacation days. Should I talk to Human Resources?"},
+                    {"person": "Yes, they handle all employee benefits and time off inquiries."},
+                    {"person": "Thanks, I’ll reach out to them today."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The department responsible for employee management",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "A department that handles financial planning",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "A team that provides technical support",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 45678,
+                    "context": "Should I talk to Human Resources?",
+                    "mean": "The department responsible for employee management."
+                }
+            },
+            {
+                "situation": "Natural resource management",
+                "conversation": [
+                    {"person": "We need to manage our natural resources more sustainably."},
+                    {"person": "I agree. Over-exploitation could lead to long-term damage."},
+                    {"person": "Let’s start implementing more environmentally friendly practices."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Materials or substances found in nature",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To provide feedback",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To train new employees",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 56789,
+                    "context": "We need to manage our natural resources more sustainably.",
+                    "mean": "Materials or substances found in nature."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Budget",
+        "wordList": [
+            {
+                "word": "Budget",
+                "definitions": "An estimate of income and expenditure for a set period of time.",
+                "examples": [
+                    "We need to finalize the budget for the next quarter."
+                ]
+            },
+            {
+                "word": "Under Budget",
+                "definitions": "Spending less than the allocated amount.",
+                "examples": [
+                    "We managed to complete the project under budget."
+                ]
+            },
+            {
+                "word": "Budget Cut",
+                "definitions": "A reduction in the amount of money allocated to a project or department.",
+                "examples": [
+                    "Due to the budget cuts, we had to downsize the team."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Discussing project finances",
+                "conversation": [
+                    {"person": "Do we have enough room in the budget to add more resources?"},
+                    {"person": "Yes, we have some flexibility, but let’s keep an eye on the overall spending."},
+                    {"person": "Understood, I’ll make sure we don’t exceed the budget."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "An estimate of income and expenditure for a set period",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "A request for more funding",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To distribute tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 12345,
+                    "context": "Do we have enough room in the budget to add more resources?",
+                    "mean": "An estimate of income and expenditure for a set period."
+                }
+            },
+            {
+                "situation": "Reviewing budget allocation",
+                "conversation": [
+                    {"person": "We need to adjust the budget allocation for each department."},
+                    {"person": "I agree. Let’s reduce the budget for marketing and increase it for product development."},
+                    {"person": "I’ll update the budget plan and send it to you for approval."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "An estimate of income and expenditure for a set period",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To assign responsibilities",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To request more resources",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "We need to adjust the budget allocation for each department.",
+                    "mean": "An estimate of income and expenditure for a set period."
+                }
+            },
+            {
+                "situation": "Working with a limited budget",
+                "conversation": [
+                    {"person": "How are we managing the project with such a tight budget?"},
+                    {"person": "We’re making progress, but we’ll need to be careful with our spending."},
+                    {"person": "Let’s track all expenses closely to stay within budget."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "An estimate of income and expenditure for a set period",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To request additional funding",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To finalize project deadlines",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 89012,
+                    "context": "Let’s track all expenses closely to stay within budget.",
+                    "mean": "An estimate of income and expenditure for a set period."
+                }
+            },
+            {
+                "situation": "Staying under budget",
+                "conversation": [
+                    {"person": "Good news, we’ve managed to stay under budget for this project."},
+                    {"person": "That’s excellent! It will give us more room for future projects."},
+                    {"person": "I’ll make sure to apply the same approach to our next assignment."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Spending less than the allocated amount",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "Requesting more funding",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "Providing employee training",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 34567,
+                    "context": "Good news, we’ve managed to stay under budget for this project.",
+                    "mean": "Spending less than the allocated amount."
+                }
+            },
+            {
+                "situation": "Discussing budget cuts",
+                "conversation": [
+                    {"person": "Due to recent budget cuts, we need to reduce the team size."},
+                    {"person": "That’s unfortunate. How will it impact our timelines?"},
+                    {"person": "We’ll need to prioritize the most critical tasks."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "A reduction in the allocated amount",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To assign tasks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide employee training",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 45678,
+                    "context": "Due to recent budget cuts, we need to reduce the team size.",
+                    "mean": "A reduction in the allocated amount."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Training",
+        "wordList": [
+            {
+                "word": "Training",
+                "definitions": "The action of teaching or developing skills for a specific job or task.",
+                "examples": [
+                    "The company offers comprehensive training for new employees."
+                ]
+            },
+            {
+                "word": "On-the-job Training",
+                "definitions": "Training that takes place in the actual work environment.",
+                "examples": [
+                    "On-the-job training helps employees learn the practical aspects of their roles."
+                ]
+            },
+            {
+                "word": "Cross-training",
+                "definitions": "Teaching an employee to do a variety of jobs within an organization.",
+                "examples": [
+                    "We’re cross-training employees to ensure flexibility across teams."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Preparing for a new role",
+                "conversation": [
+                    {"person": "What kind of training will I need for this new role?"},
+                    {"person": "You’ll receive both on-the-job training and classroom sessions."},
+                    {"person": "That sounds great! I’m looking forward to it."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The action of teaching or developing skills",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To assign tasks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To review a budget",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 56789,
+                    "context": "What kind of training will I need for this new role?",
+                    "mean": "The action of teaching or developing skills."
+                }
+            },
+            {
+                "situation": "Discussing employee development",
+                "conversation": [
+                    {"person": "We need to provide more training opportunities for the staff."},
+                    {"person": "I agree. Ongoing training is key to employee growth."},
+                    {"person": "Let’s design a comprehensive training plan."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The action of teaching or developing skills",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To review financial reports",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To assign new projects",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "We need to provide more training opportunities for the staff.",
+                    "mean": "The action of teaching or developing skills."
+                }
+            },
+            {
+                "situation": "Cross-training discussion",
+                "conversation": [
+                    {"person": "We’re thinking about cross-training the team for better flexibility."},
+                    {"person": "That’s a good idea. It will ensure we can cover any gaps."},
+                    {"person": "I’ll start scheduling the cross-training sessions next week."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Teaching employees to do a variety of jobs",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "Providing customer feedback",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To request additional funding",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 89012,
+                    "context": "We’re thinking about cross-training the team for better flexibility.",
+                    "mean": "Teaching employees to do a variety of jobs."
+                }
+            },
+            {
+                "situation": "On-the-job training",
+                "conversation": [
+                    {"person": "Will I be receiving any formal training for this role?"},
+                    {"person": "You’ll primarily be trained on the job, but we’ll also schedule a few workshops."},
+                    {"person": "Thanks for letting me know! I’ll prepare for the workshops."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Training that takes place in the work environment",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To allocate a budget",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide employee feedback",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 54321,
+                    "context": "You’ll primarily be trained on the job, but we’ll also schedule a few workshops.",
+                    "mean": "Training that takes place in the work environment."
+                }
+            },
+            {
+                "situation": "Designing a new training program",
+                "conversation": [
+                    {"person": "We need to design a new training program for our employees."},
+                    {"person": "What kind of skills should we focus on?"},
+                    {"person": "Let’s focus on both technical and soft skills development."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The action of teaching or developing skills",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To request additional resources",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To discuss budget allocations",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 76543,
+                    "context": "We need to design a new training program for our employees.",
+                    "mean": "The action of teaching or developing skills."
+                }
+            }
+        ]
+    },
+    {
+        "vocab": "Development",
+        "wordList": [
+            {
+                "word": "Development",
+                "definitions": "The process of growing, improving, or expanding something.",
+                "examples": [
+                    "The development of this software took six months."
+                ]
+            },
+            {
+                "word": "Professional Development",
+                "definitions": "Activities that enhance an individual's skills and career growth.",
+                "examples": [
+                    "She attended a seminar for professional development."
+                ]
+            },
+            {
+                "word": "Product Development",
+                "definitions": "The process of creating or improving products.",
+                "examples": [
+                    "Product development is a key focus for our company this year."
+                ]
+            }
+        ],
+        "context": [
+            {
+                "situation": "Discussing professional development opportunities",
+                "conversation": [
+                    {"person": "What professional development programs are available?"},
+                    {"person": "We offer workshops, online courses, and mentorship programs."},
+                    {"person": "I’m interested in enrolling in a leadership development course."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "Activities that enhance skills and career growth",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To request additional funding",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To distribute project tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 23456,
+                    "context": "What professional development programs are available?",
+                    "mean": "Activities that enhance skills and career growth."
+                }
+            },
+            {
+                "situation": "Product development meeting",
+                "conversation": [
+                    {"person": "How is the new product development going?"},
+                    {"person": "We’re on track. We should have a prototype ready by next month."},
+                    {"person": "That’s great! I look forward to seeing the prototype."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of creating or improving products",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To distribute project tasks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide employee feedback",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 56789,
+                    "context": "How is the new product development going?",
+                    "mean": "The process of creating or improving products."
+                }
+            },
+            {
+                "situation": "Software development timeline",
+                "conversation": [
+                    {"person": "What’s the timeline for the software development project?"},
+                    {"person": "We plan to finish development within six months."},
+                    {"person": "Let’s make sure we stay on track to meet the deadline."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of growing, improving, or expanding something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To request additional resources",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To assign project tasks",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 67890,
+                    "context": "We plan to finish development within six months.",
+                    "mean": "The process of growing, improving, or expanding something."
+                }
+            },
+            {
+                "situation": "Employee development plan",
+                "conversation": [
+                    {"person": "We need to create a development plan for our team members."},
+                    {"person": "What areas of development should we focus on?"},
+                    {"person": "Let’s focus on leadership skills and technical training."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of growing, improving, or expanding something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To distribute project tasks",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To request more resources",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 89012,
+                    "context": "We need to create a development plan for our team members.",
+                    "mean": "The process of growing, improving, or expanding something."
+                }
+            },
+            {
+                "situation": "Discussing new business development",
+                "conversation": [
+                    {"person": "What’s the next step in our business development strategy?"},
+                    {"person": "We’ll focus on expanding our market reach and increasing customer engagement."},
+                    {"person": "Sounds good! Let’s prepare a detailed plan for the next phase."}
+                ],
+                "meaningOfVocab": [
+                    {
+                        "name": "The process of growing, improving, or expanding something",
+                        "isCorrect": true
+                    },
+                    {
+                        "name": "To request additional resources",
+                        "isCorrect": false
+                    },
+                    {
+                        "name": "To provide project feedback",
+                        "isCorrect": false
+                    }
+                ],
+                "contextMatch": {
+                    "id": 12345,
+                    "context": "What’s the next step in our business development strategy?",
+                    "mean": "The process of growing, improving, or expanding something."
+                }
+            }
+        ]
+    }
+]

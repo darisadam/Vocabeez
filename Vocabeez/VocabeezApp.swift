@@ -1,17 +1,25 @@
 //
-//  VocabeezApp.swift
-//  Vocabeez
+//  VocabeeApp.swift
+//  Vocabee
 //
-//  Created by Adam Daris Ryadhi on 09/10/24.
+//  Created by Sry Tambunan on 23/09/24.
 //
 
 import SwiftUI
 
 @main
 struct VocabeezApp: App {
+    @AppStorage("isOnboardingCompleted") var isOnboardingCompleted: Bool = false
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            if isOnboardingCompleted {
+                DashboardView()
+                    .preferredColorScheme(.light)
+            } else {
+                OnboardingView(isOnboardingCompleted: $isOnboardingCompleted)
+                    .preferredColorScheme(.light)
+            }
         }
     }
 }

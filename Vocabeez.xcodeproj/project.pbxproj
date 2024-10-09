@@ -10,9 +10,22 @@
 		AEF132362CB641DC00D2F7CC /* Vocabeez.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vocabeez.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		AEF135D02CB66AAA00D2F7CC /* Exceptions for "Vocabeez" folder in "Vocabeez" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = AEF132352CB641DC00D2F7CC /* Vocabeez */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		AEF132382CB641DC00D2F7CC /* Vocabeez */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				AEF135D02CB66AAA00D2F7CC /* Exceptions for "Vocabeez" folder in "Vocabeez" target */,
+			);
 			path = Vocabeez;
 			sourceTree = "<group>";
 		};
@@ -255,6 +268,7 @@
 				DEVELOPMENT_TEAM = Q99UJS4WY6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Vocabeez/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Vocabeez;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -292,6 +306,7 @@
 				DEVELOPMENT_TEAM = Q99UJS4WY6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Vocabeez/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Vocabeez;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
